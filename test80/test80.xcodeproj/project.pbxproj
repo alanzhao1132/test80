@@ -18,6 +18,8 @@
 		8782B4471D827BB400E9D9C6 /* ertViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8782B4461D827BB400E9D9C6 /* ertViewController.m */; };
 		8782B44A1D827CD100E9D9C6 /* test90ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8782B4491D827CD100E9D9C6 /* test90ViewController.m */; };
 		87918C441D828B7F0004148F /* test107ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 87918C431D828B7F0004148F /* test107ViewController.m */; };
+		8782B4591D82859B00E9D9C6 /* test105ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8782B4581D82859B00E9D9C6 /* test105ViewController.m */; };
+		8782B4561D82852C00E9D9C6 /* test104ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8782B4551D82852C00E9D9C6 /* test104ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +62,10 @@
 		8782B4491D827CD100E9D9C6 /* test90ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = test90ViewController.m; path = test80/test90ViewController.m; sourceTree = "<group>"; };
 		87918C421D828B7F0004148F /* test107ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = test107ViewController.h; path = test80/test107ViewController.h; sourceTree = "<group>"; };
 		87918C431D828B7F0004148F /* test107ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = test107ViewController.m; path = test80/test107ViewController.m; sourceTree = "<group>"; };
+		8782B4571D82859B00E9D9C6 /* test105ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = test105ViewController.h; path = test80/test105ViewController.h; sourceTree = "<group>"; };
+		8782B4581D82859B00E9D9C6 /* test105ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = test105ViewController.m; path = test80/test105ViewController.m; sourceTree = "<group>"; };
+		8782B4541D82852C00E9D9C6 /* test104ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = test104ViewController.h; path = test80/test104ViewController.h; sourceTree = "<group>"; };
+		8782B4551D82852C00E9D9C6 /* test104ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = test104ViewController.m; path = test80/test104ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +98,10 @@
 			children = (
 				87918C421D828B7F0004148F /* test107ViewController.h */,
 				87918C431D828B7F0004148F /* test107ViewController.m */,
+				8782B4571D82859B00E9D9C6 /* test105ViewController.h */,
+				8782B4581D82859B00E9D9C6 /* test105ViewController.m */,
+				8782B4541D82852C00E9D9C6 /* test104ViewController.h */,
+				8782B4551D82852C00E9D9C6 /* test104ViewController.m */,
 				8782B4481D827CD100E9D9C6 /* test90ViewController.h */,
 				8782B4491D827CD100E9D9C6 /* test90ViewController.m */,
 				8782B4451D827BB400E9D9C6 /* ertViewController.h */,
@@ -289,7 +299,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8782B4471D827BB400E9D9C6 /* ertViewController.m in Sources */,
-				8782B4591D82859B00E9D9C6 /* test105ViewController.m in Sources */,
 				8782B4151D82786300E9D9C6 /* ViewController.m in Sources */,
 				8782B4121D82786300E9D9C6 /* AppDelegate.m in Sources */,
 				87918C441D828B7F0004148F /* test107ViewController.m in Sources */,
