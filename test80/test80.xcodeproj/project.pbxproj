@@ -288,6 +288,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8782B4561D82852C00E9D9C6 /* test104ViewController.m in Sources */,
 				8782B4471D827BB400E9D9C6 /* ertViewController.m in Sources */,
 				8782B4151D82786300E9D9C6 /* ViewController.m in Sources */,
 				8782B4121D82786300E9D9C6 /* AppDelegate.m in Sources */,
