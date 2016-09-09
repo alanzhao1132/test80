@@ -293,6 +293,7 @@
 				8782B4121D82786300E9D9C6 /* AppDelegate.m in Sources */,
 				87918C4D1D8291EE0004148F /* test109ViewController.m in Sources */,
 				8782B40F1D82786300E9D9C6 /* main.m in Sources */,
+				87918C471D82905F0004148F /* test108ViewController.m in Sources */,
 				8782B44A1D827CD100E9D9C6 /* test90ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
