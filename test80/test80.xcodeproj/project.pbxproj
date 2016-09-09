@@ -294,6 +294,7 @@
 				8782B4121D82786300E9D9C6 /* AppDelegate.m in Sources */,
 				8782B40F1D82786300E9D9C6 /* main.m in Sources */,
 				8782B44A1D827CD100E9D9C6 /* test90ViewController.m in Sources */,
+				87918C561D82987C0004148F /* test110ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
