@@ -15,6 +15,7 @@
 		8782B41D1D82786300E9D9C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8782B41B1D82786300E9D9C6 /* LaunchScreen.storyboard */; };
 		8782B4281D82786300E9D9C6 /* test80Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8782B4271D82786300E9D9C6 /* test80Tests.m */; };
 		8782B4331D82786300E9D9C6 /* test80UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8782B4321D82786300E9D9C6 /* test80UITests.m */; };
+		8782B4471D827BB400E9D9C6 /* ertViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8782B4461D827BB400E9D9C6 /* ertViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		8782B42E1D82786300E9D9C6 /* test80UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test80UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8782B4321D82786300E9D9C6 /* test80UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test80UITests.m; sourceTree = "<group>"; };
 		8782B4341D82786300E9D9C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8782B4451D827BB400E9D9C6 /* ertViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ertViewController.h; path = test80/ertViewController.h; sourceTree = "<group>"; };
+		8782B4461D827BB400E9D9C6 /* ertViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ertViewController.m; path = test80/ertViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,8 @@
 		8782B4011D82786300E9D9C6 = {
 			isa = PBXGroup;
 			children = (
+				8782B4451D827BB400E9D9C6 /* ertViewController.h */,
+				8782B4461D827BB400E9D9C6 /* ertViewController.m */,
 				8782B40C1D82786300E9D9C6 /* test80 */,
 				8782B4261D82786300E9D9C6 /* test80Tests */,
 				8782B4311D82786300E9D9C6 /* test80UITests */,
@@ -273,6 +278,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8782B4471D827BB400E9D9C6 /* ertViewController.m in Sources */,
 				8782B4151D82786300E9D9C6 /* ViewController.m in Sources */,
 				8782B4121D82786300E9D9C6 /* AppDelegate.m in Sources */,
 				8782B40F1D82786300E9D9C6 /* main.m in Sources */,
@@ -499,6 +505,7 @@
 				8782B4391D82786300E9D9C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8782B43A1D82786300E9D9C6 /* Build configuration list for PBXNativeTarget "test80Tests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +514,7 @@
 				8782B43C1D82786300E9D9C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8782B43D1D82786300E9D9C6 /* Build configuration list for PBXNativeTarget "test80UITests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +523,7 @@
 				8782B43F1D82786300E9D9C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
